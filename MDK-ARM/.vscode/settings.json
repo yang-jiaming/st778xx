@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "st7789.h": "c",
+        "spi.h": "c",
+        "st7735.h": "c"
+    }
+}
